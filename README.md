@@ -11,5 +11,5 @@ The most up-to-date TikTok headers generator, pure clean algorithm in python sup
    
 
  
-## Contact here 24/7 I use to answer fast, I can provide an api to test for free:
+## Contact here 24/7 I use to answer fast, I can provide an rapidapi to test for free:
 email: deere32@proton.me
