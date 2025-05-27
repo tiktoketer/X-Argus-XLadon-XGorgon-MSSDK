@@ -14,6 +14,7 @@ The most up-to-date TikTok headers generator, pure clean algorithm in python sup
 ## Contact here 24/7 I use to answer fast:
 
 email: deere32@proton.me
+TG : @ ThunderRev
 
 Free demo: https://rapidapi.com/TikTanic/api/tiktok-api-signer
 
